@@ -1,2 +1,1 @@
-# sebas7961.github.io
-IA que reconoce entre granos de café buenos y malos
+Computer vision model (TensorFlow/Keras) that classifies coffee beans as good or defective, served in the browser with TensorFlow.js
